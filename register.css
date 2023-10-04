@@ -65,6 +65,9 @@ button {
     cursor: pointer;
     margin-top: 10px;
 }
+.form-group label{
+    margin-top: 11px;
+}
 
 @media (max-width: 768px) {
     .registration-container {
