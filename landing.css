@@ -299,6 +299,8 @@
         .three-cards {
             justify-content: center;
             padding-left: 10px;
+            width: 130px;
+            margin-left: 85px;
         }
 
         .testimonials {
