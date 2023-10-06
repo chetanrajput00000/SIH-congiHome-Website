@@ -104,9 +104,12 @@ body {
         width: 100%;
     }
 
-    .three-cards {
+  .three-cards {
         justify-content: center;
-        padding-left: 10px;
+        padding-left: 70px;
+        width: 130px;
+        margin-top: -18px;
+
     }
 
     .testimonials {
